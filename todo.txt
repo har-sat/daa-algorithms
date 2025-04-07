@@ -1,0 +1,13 @@
+todo.txt
+ - matrix chain
+ - lcs
+ - ford fulkerson
+ 
+ . graham scann
+
+ = max subarray
+ = n queens
+ = karatsuba **
+ = kmp algorithm **
+ = rabin karp **
+ = floyd warshall ** 
