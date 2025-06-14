@@ -27,3 +27,4 @@ b_int = int(b * scale)
 output = round(karat(a_int, b_int) / (scale * scale), 3)
 
 print(output)
+

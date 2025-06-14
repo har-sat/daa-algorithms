@@ -1,11 +1,10 @@
 todo.txt
- - ford fulkerson
-
- = lcs
- = matrix chain
- = max subarray
- = n queens
- = karatsuba **
- = kmp algorithm **
- = rabin karp **
- = floyd warshall ** 
+ = ford fulkerson 👍🏼
+ = lcs 👍🏼
+ = matrix chain 👍🏼
+ = max subarray 👍🏼
+ = n queens 👍🏼
+ = karatsuba ** 👍🏼
+ = kmp algorithm ** 👍🏼
+ = rabin karp ** 👍🏼
+ = floyd warshall ** 👍🏼

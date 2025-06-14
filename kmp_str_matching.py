@@ -13,6 +13,7 @@ def fill_lps(s: str):
         else:
             j = lps[j - 1]
 
+    print(*lps)
     return lps
 
 

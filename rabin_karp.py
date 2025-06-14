@@ -23,9 +23,6 @@ def rabin_karp(text, pattern):
     if t_hash == p_hash and text[:m] == pattern:
         positions.append(0)
 
-    print(p_hash)
-    print(t_hash)
-
     #find all the other patterns
     for i in range(1, n - m + 1):
         leaving = hash[text[i - 1]]

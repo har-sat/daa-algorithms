@@ -1,14 +1,12 @@
 # n is the no of vertices
 INF = float("inf")
 
-
 def floyd_warshall(n, graph):
     dp = [row[:] for row in graph]
 
     for k in range(n):
         for i in range(n):
             for j in range(n):
-                # if dp[i][k] != INF and dp[k][j] != INF:
                 dp[i][j] = min(dp[i][j], dp[i][k] + dp[k][j])
 
     return dp
